@@ -1,0 +1,41 @@
+body{
+    background-color: #374B7A;
+}
+
+.logo{
+    width: 100px;
+}
+
+/* BIENVENIDA */
+.bienvenida{
+    margin-top: 130px;
+    text-align: center;
+}
+
+.img{
+    width: 600px;
+}
+
+.h1,.h2{
+    color: white;
+}
+
+/* NOTICIAS */
+
+.noticias{
+    text-align: center;
+    margin-top: 250px;
+}
+.noticia__fila-1,.noticia__fila-2{
+    display: flex;
+    justify-content: center;
+}
+.card{
+    /* padding: 20px 20px 20px 20px; */
+    margin :20px 20px 20px 20px
+}
+
+/* NOTICIAS CARRUSEL */
+.mt-5{
+    text-align: center;
+}
