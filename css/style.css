@@ -1,3 +1,5 @@
+/* -----------------INDEX------------------ */
+
 body{
     background-color: #374B7A;
 }
@@ -16,10 +18,14 @@ body{
     width: 600px;
 }
 
-.h1,.h2{
+h1,h2{
     color: white;
 }
 
+.container{
+    max-width: 1500px;
+    
+}
 /* NOTICIAS */
 
 .noticias{
@@ -31,7 +37,6 @@ body{
     justify-content: center;
 }
 .card{
-    /* padding: 20px 20px 20px 20px; */
     margin :20px 20px 20px 20px
 }
 
@@ -39,3 +44,4 @@ body{
 .mt-5{
     text-align: center;
 }
+

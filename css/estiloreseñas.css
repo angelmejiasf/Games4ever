@@ -1,0 +1,41 @@
+body{
+    background-color: #374B7A;
+}
+
+.logo{
+    width: 100px;
+}
+
+h2,h4{
+    color: white;
+}
+
+.container{
+    max-width: 1500px;
+    
+}
+/* RESEÑAS */
+
+.article{
+    text-align: center;
+}
+.hcard{
+    color: black;
+}
+
+.card{
+    margin: 40px 40px 40px 40px;
+}
+
+.card-img-top{
+    height: 100%;
+}
+
+
+/* FORM */
+
+.rating{
+    color: orange;
+}
+
+.form-label{color: white;}
