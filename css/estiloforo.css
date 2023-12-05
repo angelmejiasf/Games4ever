@@ -10,9 +10,25 @@ h2,h4{
     color: white;
 }
 
+.container{
+    max-width: 1300px;
+}
 /* FORO */
 .article{
     max-width: 1000px;
-   
+   text-align: center;
     margin: auto;
+    margin-top: 20px;
+}
+
+/* ALERTA */
+.alert{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.añadir_hilo{
+    text-align: center;
+    color: white;
+    margin-top: 30px;
 }

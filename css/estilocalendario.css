@@ -1,0 +1,26 @@
+body{
+    background-color: #374B7A;
+}
+
+.logo{
+    width: 100px;
+}
+
+.container{
+    width: 1300px;
+}
+
+.section{
+    text-align: center;
+    
+    margin-top: 40px;
+
+}
+
+.list-group-item{
+    margin: 20px 20px 20px 20px;
+}
+
+h2{
+    color: white;
+}
